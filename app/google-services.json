@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "780048207604",
+    "project_id": "kovaionhrms",
+    "storage_bucket": "kovaionhrms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780048207604:android:42ae526f9ae94bd87b18a1",
+        "android_client_info": {
+          "package_name": "com.canaraswayam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780048207604-45d2sm56gopmgeqbcejgu4dj49f32bth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjo0rxpQYB1ZCYAuipfxfdg4TQB0JAwXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780048207604-45d2sm56gopmgeqbcejgu4dj49f32bth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780048207604:android:7707ca849d819e167b18a1",
+        "android_client_info": {
+          "package_name": "com.kovaionhrms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780048207604-45d2sm56gopmgeqbcejgu4dj49f32bth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjo0rxpQYB1ZCYAuipfxfdg4TQB0JAwXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780048207604-45d2sm56gopmgeqbcejgu4dj49f32bth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
